@@ -76,7 +76,7 @@ The cleaned data is imported into Tableau for analysis and the figures plotted a
 - Casual riders had an average ride length of **22.21 minutes**, which is a significant margin larger than the average ride length of members of **12.18 minutes**.
 
 #### Ride Times (Casual vs Member)
-<img width="2950" height="881" alt="image" src="https://github.com/user-attachments/assets/6d64b6ff-29d1-404c-98f4-17ab149b976c" /> <br>
+<img width="3681" height="1087" alt="image" src="https://github.com/user-attachments/assets/b74a7a74-e43e-4d39-a783-9d1b8d87eed3" /> <br>
 - Casual riders have **one peak** time frame with the most bike rides of their group being in the evening between **3:00 to 7:00 PM**. It can be inferred this peak represents casual riders taking trips after work.
 - Members have **two peaks** in the day, with the first smaller peak being in the morning between **7:00 to 9:00 AM**, and the next larger peak being between **4:00 to 7:00 PM**. It can be inferred these peaks are from commutes to work in the morning, and rides taken after work.
  
