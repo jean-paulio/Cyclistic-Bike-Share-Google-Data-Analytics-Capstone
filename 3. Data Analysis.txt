@@ -1,0 +1,8 @@
+Consider the following questions and find the corresponding answers:
+
+- What is the total number of riders? How many are members? How many are casual riders?
+- How do users prefer classic bikes to electric bikes? Do preferences differ amongst members and casual riders?
+- How does bike-sharing demand fluctuate throughout the day between members and casual riders. When is demand most high or low for either group?
+- How do members and casual riders differ in time spent with the service? Are these differences consistent year-round or do they fluctuate? Are they different month-to-month?
+- How does bike-sharing demand fluctuate throughout the year between members and casual riders. When is demand most high or low for either group?
+- How does bike-sharing utilization differ between weekdays and weekends, and how do member vs. casual riding habits change during the week?
