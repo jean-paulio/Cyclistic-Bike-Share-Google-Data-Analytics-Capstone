@@ -26,9 +26,9 @@ The data I will be analyzing will be all trips from the year **2025**.
 
 ### 3. Process
 The data was processed in 3 steps:
-1) Data Combining
-2) Data Cleaning
-3) Data Analysis
+1) [Data Combining](https://github.com/jean-paulio/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone/blob/main/1.%20Data%20Combining.sql)
+2) [Data Cleaning](https://github.com/jean-paulio/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone/blob/main/2.%20Data%20Cleaning.sql)
+3) [Data Analysis](https://github.com/jean-paulio/Cyclistic-Bike-Share-Google-Data-Analytics-Capstone/blob/main/3.%20Data%20Analysis.txt)
 
 #### Data Combining
 The 12 tables from **January 2025 to December 2025** were stacked and combined into a single table. The table consists of 5,552,994 rows. 
